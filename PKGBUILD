@@ -6,7 +6,7 @@ _onnx_version=1.7.0
 _onnx_runtime=onnxruntime-linux-x64-${_onnx_version}
 sha256sums=('e88bbc902154b5efd46d8fc1dee52fcf079c8ff2ae6593d9f716017fdd1ef601'
             '0345f45f222208344406d79a6db3280ed2ccc884dc1e064ce6e6951ed4c70606')
-_source="${pkgname}-${pkgver}-beta"
+_source="${pkgname}-${pkgver}"
 
 arch=(x86_64)
 url='https://github.com/royshil/obs-backgroundremoval'
